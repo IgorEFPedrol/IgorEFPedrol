@@ -1,4 +1,4 @@
-### Olá! eu sou o Igor<br> Estudante do Curso de Desenvolvimento de Sistemas na Etec Dr. Demétrio Azevedo Júnior
+### Olá! Eu sou o Igor <br>Estudante do Curso de Desenvolvimento de Sistemas na Etec Dr. Demétrio Azevedo Júnior<br>Atualmente estou fazendo alguns cursos gratuitos no site: https://www.cursoemvideo.com/
 --------------------------------
 <div align="center">
   <a href="https://github.com/IgorEnricoFP">
