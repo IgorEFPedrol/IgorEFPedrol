@@ -1,4 +1,4 @@
-### Olá! eu sou o Igor Enrico
+### Olá! eu sou o Igor<br> Estudante do Curso de Desenvolvimento de Sistemas na Etec Dr. Demétrio Azevedo Júnior
 --------------------------------
 <div align="center">
   <a href="https://github.com/IgorEnricoFP">
