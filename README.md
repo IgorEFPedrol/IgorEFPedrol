@@ -1,10 +1,14 @@
 ### Olá! Eu sou o Igor <br>Estudante do Curso de Análise e Desenvolvimento de Sistemas na Etec Dr. Demétrio Azevedo Júnior<br>Atualmente estou fazendo alguns cursos gratuitos no site: https://www.cursoemvideo.com/
 --------------------------------
-<div align="center">
+<div>
   <a href="https://github.com/IgorEnricoFP">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorEnricoFP&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorEnricoFP&layout=compact&langs_count=7&theme=github_dark"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorEnricoFP&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/IgorEnricoFP">
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorEnricoFP&layout=compact&langs_count=7&theme=github_dark"/>
+  </a>
 </div>
+
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
