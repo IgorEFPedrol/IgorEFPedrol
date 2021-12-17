@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Igor <br>Estudante do Curso de Análise e Desenvolvimento de Sistemas na Etec Dr. Demétrio Azevedo Júnior<br>Atualmente estou fazendo alguns cursos gratuitos no site: https://www.cursoemvideo.com/
 --------------------------------
-<div align="left">
+<div align="left" style="display: inline_block">
   <a href="https://github.com/IgorEnricoFP">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorEnricoFP&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   </a>
