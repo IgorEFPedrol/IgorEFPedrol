@@ -23,3 +23,4 @@
   ##
   
  ![Snake animation](https://github.com/IgorEnricoFP/IgorEnricoFP/blob/output/github-contribution-grid-snake.svg)
+
