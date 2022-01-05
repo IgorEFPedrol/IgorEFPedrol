@@ -1,4 +1,4 @@
-### Olá! Eu sou o Igor <br>Estudante do Curso de Análise e Desenvolvimento de Sistemas na Etec Dr. Demétrio Azevedo Júnior<br>
+### Olá! Eu sou o gor <br>Estudante do Curso de Análise e Desenvolvimento de Sistemas na Etec Dr. Demétrio Azevedo Júnior<br>
 --------------------------------
 <div align="center" style="display: inline_block" width="100%">
   <a href="https://github.com/IgorEnricoFP">
