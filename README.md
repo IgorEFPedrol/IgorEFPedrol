@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Igor <br>Técnico em Análise e Desenvolvimento de Sistemas pela Etec Dr. Demétrio Azevedo Júnior<br>
-### Atualmente Cursando Ciências da computação na UTFPR
+### Atualmente Cursando Ciência da computação na UTFPR
 --------------------------------
 <div align="center" style="display: inline_block" width="100%">
   <a href="https://github.com/IgorEnricoFP">
