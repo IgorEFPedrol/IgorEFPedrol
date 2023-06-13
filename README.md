@@ -2,10 +2,10 @@
 ### Atualmente Cursando Ciência da computação na UTFPR
 --------------------------------
 <div align="center" style="display: inline_block" width="100%">
-  <a href="https://github.com/IgorEnricoFP">
+  <a href="https://github.com/IgorEFPedrol">
   <img align="center" height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=IgorEnricoFP&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/IgorEnricoFP">
+  <a href="https://github.com/IgorEFPedrol">
   <img align="center" height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorEnricoFP&layout=compact&langs_count=7&theme=react"/>
   </a>
 </div>
