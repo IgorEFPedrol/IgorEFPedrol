@@ -3,17 +3,17 @@
 --------------------------------
 <div align="center" style="display: inline_block" width="100%">
   <a href="https://github.com/IgorEFPedrol">
-  <img align="center" height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=IgorEnricoFP&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img align="center" height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=IgorEFPedrol&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/IgorEFPedrol">
-  <img align="center" height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorEnricoFP&layout=compact&langs_count=7&theme=react"/>
+  <img align="center" height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorEFPedrol&layout=compact&langs_count=7&theme=react"/>
   </a>
 </div>
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="igor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="igor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="igor-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
@@ -24,5 +24,5 @@
 
   ##
   
- ![Snake animation](https://github.com/IgorEnricoFP/IgorEnricoFP/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/IgorEFPedrol/IgorEnricoFP/blob/output/github-contribution-grid-snake.svg)
 
