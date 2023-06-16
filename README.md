@@ -18,11 +18,11 @@
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="igor-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg">
-  <img align="center" alt="igor-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-  <img align="center" alt="igor-Java" height = "30" width = "40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+  <img align="center" alt="Java" height = "30" width = "40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
 </div>
 
   ##
   
- ![Snake animation](https://github.com/IgorEFPedrol/IgorEnricoFP/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/IgorEFPedrol/IgorEFPedrol/blob/output/github-contribution-grid-snake.svg)
 
