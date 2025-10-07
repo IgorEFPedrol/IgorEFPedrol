@@ -1,5 +1,6 @@
 ### Olá! Eu sou o Igor <br>Técnico em Análise e Desenvolvimento de Sistemas pela Etec Dr. Demétrio Azevedo Júnior<br>
 ### Atualmente Cursando Ciência da computação na UTFPR
+### Estou estudando Back-End e me especializando em Desenvolvimento em Java, Com APIs Rest e Spring Boot
 --------------------------------
 <div align="center" style="display: inline_block" width="100%">
   <a href="https://github.com/IgorEFPedrol">
