@@ -20,6 +20,3 @@
 </div>
 
   ##
-  
- ![Snake animation](https://github.com/IgorEFPedrol/IgorEFPedrol/blob/output/github-contribution-grid-snake.svg)
-
