@@ -1,5 +1,5 @@
-### Olá! Eu sou o Igor <br>Técnico em Análise e Desenvolvimento de Sistemas pela Etec Dr. Demétrio Azevedo Júnior<br>
-### Atualmente Cursando Ciência da computação na UTFPR
+### Olá! Eu sou o Igor Pedrol, <br>Técnico em Análise e Desenvolvimento de Sistemas pela Etec Dr. Demétrio Azevedo Júnior<br> 
+Atualmente cursando Ciência da computação na UTFPR, com previsão de término em julho de 2027.
 ### Estou estudando Back-End e me especializando em Desenvolvimento em Java, Com APIs Rest e Spring Boot
 --------------------------------
 <div align="center" style="display: inline_block" width="100%">
